@@ -12,7 +12,6 @@ An interactive machine learning app that predicts whether a passenger aboard the
 - 🎯 Predict survival based on input features like age, sex, ticket class, etc.
 - 📊 Built with a trained **Random Forest Classifier**
 - 🖥️ Simple and modern **Streamlit UI**
-- 💡 Educational project aligned with machine learning interview expectations
 
 ---
 
